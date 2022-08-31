@@ -1,0 +1,4 @@
+code14. Write a Java program to extract the first half of a string of even length. Go to the editor
+Test Data: Python
+Sample Output:
+Pyt

@@ -1,0 +1,4 @@
+code18. Write a Java program to rearrange all the elements of a given array of integers so that all the odd numbers come before all the even numbers. Go to the editor
+Original Array: [1, 7, 8, 5, 7, 13, 0, 2, 4, 9]                        
+New Array: [7, 5, 7, 13, 9, 1, 0, 2, 4, 8]
+Click me to see the solution

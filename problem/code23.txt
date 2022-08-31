@@ -1,0 +1,12 @@
+code23. Write a Java program to check whether three given lengths (integers) of three sides form a right triangle. Print "Yes" if the given sides form a right triangle otherwise print "No". Go to the editor
+
+Input:
+
+Each test case consists of two non-negative integers a and b which are separated by a space in a line. 0 ≤ a, b ≤ 1,000,000
+
+Expected Output:
+
+Input three integers(sides of a triangle)
+ 6 9 12
+If the given sides form a right triangle?
+No
