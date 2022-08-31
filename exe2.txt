@@ -1,0 +1,48 @@
+Write a Java method to find the smallest number among three numbers. Go to the editor
+Test Data:
+Input the first number: 25
+Input the Second number: 37
+Input the third number: 29
+Expected Output:
+
+The smallest value is 25.0
+
+
+Write a Java method to compute the average of three numbers. Go to the editor
+Test Data:
+Input the first number: 25
+Input the second number: 45
+Input the third number: 65
+Expected Output:
+
+The average value is 45.0
+
+
+Write a Java method that accept three integers and check whether they are consecutive are not. Return true or false. Go to the editor
+
+Expected Output:
+
+Input the first number:  15
+Input the second number:  16
+Input the third number:  17
+Check whether the three said numbers are consecutive or not!true
+
+
+
+Write a Java method that checks whether all the characters in a given string are vowels (a, e,i,o,u) or not. Return true if each character of the string is a vowel, otherwise return false. Go to the editor
+
+Expected Output:
+
+Input a string:  AIEEE
+Check all the characters of the said string are vowels or not!
+true
+
+
+
+Write a Java method to check whether every digit of a given integer is even. Return true if every digit is odd otherwise false. Go to the editor
+
+Expected Output:
+
+Input an integer: 8642
+Check whether every digit of the said integer is even or not!
+true

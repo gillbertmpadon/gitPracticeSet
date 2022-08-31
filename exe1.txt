@@ -1,0 +1,11 @@
+Print  numbers from 10-1
+
+Print reverse of helloworld
+
+Display the world helloworld exclude vowels.
+
+Compute for area of triangle
+
+Compute for area of rectangle
+
+Conversion of high school grading system to college grading system
